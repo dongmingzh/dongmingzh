@@ -1,32 +1,24 @@
-# Hi, I'm Dongming 👋
+# Dongming Zhang
 
-I build practical AI tools for healthcare, learning and knowledge work.
+AI × Healthcare × Knowledge Systems
 
-My work focuses on turning complex information into clear, usable and visually structured digital products.
+Exploring how AI can help transform complex knowledge into clearer, more structured and practical digital solutions.
 
-## What I’m interested in
+My interests lie at the intersection of healthcare, artificial intelligence, education and product design — discovering better ways to learn, communicate and solve real-world problems with technology.
+
+## Interests
 
 - AI-assisted healthcare workflows
 - Knowledge management and learning systems
-- Lightweight web products and automation
-- Presentation and information design
+- AI-powered productivity and automation
+- Information design and digital products
 
-## What I’m building
+## Current Exploration
 
-- Digital tools for healthcare communication and follow-up
-- AI-assisted workflows for structured learning and spaced repetition
-- Practical systems for turning raw content into clear presentations and visual materials
+- Building practical workflows with AI coding agents
+- Turning professional knowledge into reusable digital tools
+- Designing better human-AI collaboration experiences
 
-## Currently exploring
+## Selected Projects
 
-- Building useful products with AI coding agents
-- Converting professional knowledge into reusable digital tools
-- Designing clearer interfaces for complex information
-
-## Selected work
-
-My featured projects will be added here as they are refined and documented.
-
----
-
-**Based in Tianjin, China**
+Projects and experiments around healthcare, AI, learning and productivity will be documented here.
