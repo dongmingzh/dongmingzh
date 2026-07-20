@@ -21,4 +21,4 @@ My interests lie at the intersection of healthcare, artificial intelligence, edu
 
 ## Selected Projects
 
-Projects and experiments around healthcare, AI, learning and productivity will be documented here.
+A collection of projects exploring healthcare, AI applications, learning systems and productivity tools.
